@@ -1,0 +1,3 @@
+['i-059e77d3607c881fe', 'i-0920f891e10e33ff7', 'i-0154510276faca829', 'i-0b4d93df6ed0366b3', 'i-07842d1de877a5749', 'i-0b29ee84a92f2ab9f', 'i-0631e8a8c1ffc746d', 'i-077fb706e17960334', 'i-02d20037ad4d06de3', 'i-06a5cc52e9f06a84c', 'i-0b99434f1f70b460e', 'i-00a94471b15eb0440', 'i-02eeab7023b4a7743', 'i-0bc2f2d686bcb88aa', 'i-0323b27e36a1435bc', 'i-004676284d1b746f3', 'i-080343189a9f05ec8', 'i-0fbbec77eab5678e4', 'i-0f7ecdbbd90b86289', 'i-00366ba34835114d3']
+
+Auto_Scaling script - only 12 instance are created to be corrected
